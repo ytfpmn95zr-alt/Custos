@@ -1,4 +1,4 @@
-# Network Traffic Analyzer
+# Custos - Vigilantia per Scientiam
 
 A modular Python-based network traffic analyzer built for cybersecurity research and training. Features a flexible architecture allowing both high-level (Scapy) and low-level (raw sockets) packet capture implementations.
 
